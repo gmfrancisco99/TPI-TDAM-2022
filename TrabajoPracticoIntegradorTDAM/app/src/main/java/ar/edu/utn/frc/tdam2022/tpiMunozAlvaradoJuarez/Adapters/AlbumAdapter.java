@@ -5,6 +5,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez.R;
+import ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez.models.AlbumModel;
+
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
