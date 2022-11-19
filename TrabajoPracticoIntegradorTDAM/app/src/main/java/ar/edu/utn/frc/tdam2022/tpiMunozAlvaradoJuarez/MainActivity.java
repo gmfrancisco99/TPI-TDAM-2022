@@ -13,6 +13,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.List;
 
+import ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez.adapters.AlbumAdapter;
+import ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez.models.AlbumModel;
+
 public class MainActivity extends Activity {
 
     private RecyclerView recyclerViewAlbum;

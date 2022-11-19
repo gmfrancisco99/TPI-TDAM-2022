@@ -1,4 +1,4 @@
-package ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez;
+package ar.edu.utn.frc.tdam2022.tpiMunozAlvaradoJuarez.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
